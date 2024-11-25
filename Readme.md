@@ -9,7 +9,8 @@ Algorithm Visualizer is a Java Swing application that provides visual representa
 - Visualize different sorting algorithms
   - Bubble Sort
   - Quick Sort
-  - Merge Sort
+  - Selection Sort
+  - Insertion Sort
 - Step-by-step execution with animations
 - User-friendly interface
 
